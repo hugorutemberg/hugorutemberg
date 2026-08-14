@@ -1,9 +1,6 @@
 <h2>Hugo Rutemberg <img src="./mark.svg" width="30" align="top" alt="" /></h2>
 
-Desenvolvedor full-stack há 15+ anos. Toco a [Interacore](https://interacore.com.br).
-
-Backend, web e mobile, com foco em integrações entre sistemas e em manter isso de pé
-quando o terceiro falha.
+Escrevo e opero software há 15+ anos. Toco a [Interacore](https://interacore.com.br).
 
 ### Stack
 
@@ -70,9 +67,11 @@ quando o terceiro falha.
     Perfil de dev cita problema técnico concreto.
   - Sem blocos em negrito com rótulo. A estrutura em si já parecia menu de serviços;
     um parágrafo corrido lê como alguém descrevendo o trabalho.
-  - Bio discreta, duas frases. Pesquisei 13 perfis de devs de referência: as boas bios
-    são curtas e ancoradas em coisa com NOME (Turborepo, Datasette, v0.dev). Sem um
-    artefato público para citar, texto longo só rende genérico. Melhor calar.
+  - Bio de uma linha só, no registro do caarlos0 ("I write and operate software for a
+    living"). Pesquisei ~19 perfis de referência: bio boa é curta e ancorada em coisa
+    com NOME (Turborepo, Datasette, oh-my-posh). Sem artefato público para citar, texto
+    longo só rende genérico, então o certo é se apresentar e sair da frente.
+  - "Escrevo e OPERO" é deliberado: operar em produção é sinal diferente de só escrever.
   - Sem stack na prosa. Nenhuma bio boa cita linguagem ou framework, e a tabela logo
     abaixo já cobre isso.
   - Afirmação, não narrativa. "A parte que mais consome tempo é..." conta rotina e soa

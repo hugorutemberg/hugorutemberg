@@ -31,19 +31,9 @@ Escrevo e opero software há 15+ anos. Toco a [Interacore](https://interacore.co
   </tr>
 </table>
 
-### Atividade
+### Projetos
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/hugorutemberg/hugorutemberg/output/snake-dark.svg" />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/hugorutemberg/hugorutemberg/output/snake.svg" />
-  <img
-    src="https://raw.githubusercontent.com/hugorutemberg/hugorutemberg/output/snake.svg"
-    alt="Cobrinha percorrendo o gráfico de contribuições" />
-</picture>
+- **[service-circuit-breaker](https://github.com/hugorutemberg/service-circuit-breaker)** — circuit breaker para APIs externas instáveis, com painel de status e log de erros agrupados por causa.
 
 ---
 
@@ -58,8 +48,10 @@ Escrevo e opero software há 15+ anos. Toco a [Interacore](https://interacore.co
   - Tabela em HTML, não em markdown. Tabela markdown exige linha de cabeçalho, e sem
     rótulos ela renderiza uma faixa vazia no topo que parece defeito. Em HTML basta
     omitir o thead.
-  - Sem card de sequência de contribuições: o número do meio ("sequência atual") oscila
-    e é o elemento visualmente maior do card, então um dia ruim vira o destaque.
+  - Sem card de sequência e sem a cobrinha do gráfico de contribuições. A cobrinha é o
+    gimmick mais comum de README e nenhum dos ~19 perfis de referência que pesquisei
+    usa. Enfeite ocupava o lugar de prova; agora há uma lista de projetos de verdade,
+    que é a estrutura do caarlos0.
   - `mark.svg` é uma marca própria: três nós conectados, referência direta a integrar
     sistemas. Cores escolhidas para funcionar no tema claro e no escuro.
   - Nada de lista de segmentos de mercado ("plataformas de e-commerce, ERPs, gateways").

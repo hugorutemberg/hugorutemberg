@@ -1,6 +1,6 @@
 <h2>Olá, eu sou o Hugo <img src="./mark.svg" width="34" align="top" alt="" /></h2>
 
-Desenvolvedor **full-stack** com **8+ anos** construindo sistemas em produção. Toco a
+Desenvolvedor **full-stack** com **15+ anos** construindo sistemas em produção. Toco a
 [Interacore](https://interacore.com.br), minha empresa de software sob medida, atendendo
 empresas de **e-commerce**, **logística**, **fiscal** e **inventário**, do backend ao
 aplicativo.
@@ -82,8 +82,8 @@ Aberto a projetos, consultoria e parcerias técnicas.
   - Texto antes da stack. "O que eu resolvo" convence mais que "que ferramentas eu uso".
   - Setores no lugar de clientes: comunica experiência sem entregar nome de ninguém.
 
-  A PREENCHER
-  - Anos de experiência: 8+, comprovado pelo widget de atividade (3.521 contribuições
-    desde 29/03/2017). Se a carreira começou antes do GitHub, aumentar o número.
+  NOTAS
+  - 15+ anos é a carreira inteira, informada por mim. O GitHub só cobre de 03/2017 em
+    diante (3.521 contribuições), então o começo é anterior à conta.
   - Angular está fora: não há repositório Angular meu, nem local nem no GitHub.
 -->

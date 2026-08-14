@@ -27,7 +27,7 @@ eletrônico, controle de inventário e automação de atendimento.
 
 ## Stack
 
-| | |
+| Área | Tecnologias |
 |---|---|
 | **Linguagens** | PHP, TypeScript, JavaScript, SQL |
 | **Backend** | Symfony, Laravel, Doctrine, Node.js |

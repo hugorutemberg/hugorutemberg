@@ -1,15 +1,9 @@
 <h2>Hugo Rutemberg <img src="./mark.svg" width="30" align="top" alt="" /></h2>
 
-Desenvolvedor **full-stack** com **15+ anos** construindo sistemas em produção. Toco a
-[Interacore](https://interacore.com.br), atendendo empresas de diferentes setores e
-portes, do backend ao aplicativo.
+Desenvolvedor full-stack há 15+ anos. Toco a [Interacore](https://interacore.com.br).
 
-Construo APIs REST, painéis administrativos, apps iOS e Android e integrações entre
-sistemas. Backend em PHP com Symfony e Laravel, cliente em React e React Native, tudo em
-monorepo com API gateway.
-
-Resiliência a serviços externos instáveis: circuit breaker, cache em camadas, fila sem
-broker, idempotência e retry com backoff.
+Backend, web e mobile, com foco em integrações entre sistemas e em manter isso de pé
+quando o terceiro falha.
 
 ### Stack
 
@@ -76,11 +70,13 @@ broker, idempotência e retry com backoff.
     Perfil de dev cita problema técnico concreto.
   - Sem blocos em negrito com rótulo. A estrutura em si já parecia menu de serviços;
     um parágrafo corrido lê como alguém descrevendo o trabalho.
-  - Começa pelo PRODUTO ("construo APIs, painéis, apps"), não pelo padrão de arquitetura.
-    Só listar circuit breaker, idempotência e afins deixa abstrato: diz como eu resolvo
-    sem dizer o que eu entrego.
+  - Bio discreta, duas frases. Pesquisei 13 perfis de devs de referência: as boas bios
+    são curtas e ancoradas em coisa com NOME (Turborepo, Datasette, v0.dev). Sem um
+    artefato público para citar, texto longo só rende genérico. Melhor calar.
+  - Sem stack na prosa. Nenhuma bio boa cita linguagem ou framework, e a tabela logo
+    abaixo já cobre isso.
   - Afirmação, não narrativa. "A parte que mais consome tempo é..." conta rotina e soa
-    a desabafo; "Resiliência a serviços externos instáveis:" afirma capacidade.
+    a desabafo.
   - Sem chamada comercial ("aberto a projetos e consultoria"). Os links de contato já
     dizem que dá para me procurar.
   - Sem lista de setores. Nomear nichos estreita o perfil e sugere especialização onde

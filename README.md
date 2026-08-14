@@ -4,10 +4,13 @@ Desenvolvedor **full-stack** com **15+ anos** construindo sistemas em produção
 [Interacore](https://interacore.com.br), atendendo empresas de diferentes setores e
 portes, do backend ao aplicativo.
 
-Trabalho sobretudo com sistemas que dependem de muitas APIs de terceiros e não podem cair
-quando uma delas cai: circuit breaker por dependência, cache em camadas, chamadas
-paralelas, filas sem broker, idempotência, locks distribuídos e retry com backoff. No
-cliente, React e React Native em monorepo com API gateway.
+Construo APIs REST, painéis administrativos, apps iOS e Android e integrações entre
+sistemas. Backend em PHP com Symfony e Laravel, cliente em React e React Native, tudo em
+monorepo com API gateway.
+
+A parte que mais consome tempo é manter isso de pé quando a API de terceiro cai: circuit
+breaker por dependência, cache em camadas, fila sem broker, idempotência e retry com
+backoff.
 
 ### Stack
 
@@ -76,6 +79,9 @@ Aberto a projetos, consultoria e parcerias técnicas.
     Perfil de dev cita problema técnico concreto.
   - Sem blocos em negrito com rótulo. A estrutura em si já parecia menu de serviços;
     um parágrafo corrido lê como alguém descrevendo o trabalho.
+  - Começa pelo PRODUTO ("construo APIs, painéis, apps"), não pelo padrão de arquitetura.
+    Só listar circuit breaker, idempotência e afins deixa abstrato: diz como eu resolvo
+    sem dizer o que eu entrego.
   - Sem lista de setores. Nomear nichos estreita o perfil e sugere especialização onde
     o trabalho é diverso. "Diferentes setores e portes" mantém a porta aberta.
 

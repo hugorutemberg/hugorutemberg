@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://interacore.com.br/">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=6C8EEF&center=true&vCenter=true&width=520&height=40&lines=Full-Stack+Developer;Web%2C+mobile+e+integra%C3%A7%C3%B5es;Software+sob+medida;S%C3%A3o+Paulo%2C+Brasil"
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1200&amp;color=6C8EEF&amp;center=true&amp;vCenter=true&amp;width=520&amp;height=40&amp;lines=Full-Stack+Developer;Web%2C+mobile+e+integra%C3%A7%C3%B5es;Software+sob+medida;S%C3%A3o+Paulo%2C+Brasil"
       alt="Full-Stack Developer · Web, mobile e integrações · São Paulo, Brasil" />
   </a>
 </p>

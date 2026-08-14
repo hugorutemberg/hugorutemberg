@@ -1,4 +1,4 @@
-<h2>Olá, eu sou o Hugo <img src="./mark.svg" width="34" align="top" alt="" /></h2>
+<h2>Hugo Rutemberg <img src="./mark.svg" width="30" align="top" alt="" /></h2>
 
 Desenvolvedor **full-stack** com **15+ anos** construindo sistemas em produção. Toco a
 [Interacore](https://interacore.com.br), atendendo empresas de diferentes setores e

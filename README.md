@@ -33,7 +33,7 @@ Escrevo e opero software há 15+ anos. Toco a [Interacore](https://interacore.co
 
 ### Projetos
 
-- **[service-circuit-breaker](https://github.com/hugorutemberg/service-circuit-breaker)** — circuit breaker para APIs externas instáveis, com painel de status e log de erros agrupados por causa.
+- **[service-circuit-breaker](https://github.com/hugorutemberg/service-circuit-breaker)**: circuit breaker para APIs externas instáveis, com painel de status e log de erros agrupados por causa.
 
 ---
 

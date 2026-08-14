@@ -19,38 +19,34 @@ API gateway.
 
 ### Stack
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)
-
-![Symfony](https://img.shields.io/badge/Symfony-000000?logo=symfony&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
-![Doctrine](https://img.shields.io/badge/Doctrine-FC6A31?logo=doctrine&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
-
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/React_Native-0A7EA4?logo=react&logoColor=white)
-![Expo](https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
-![Astro](https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=white)
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-FF4438?logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-000000?logo=linux&logoColor=white)
-![Sentry](https://img.shields.io/badge/Sentry-362D59?logo=sentry&logoColor=white)
+<table>
+  <tr>
+    <td><b>Linguagens</b></td>
+    <td>PHP, TypeScript, JavaScript, SQL</td>
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td>Symfony, Laravel, Doctrine, Node.js</td>
+  </tr>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td>React, Next.js, Astro, Tailwind</td>
+  </tr>
+  <tr>
+    <td><b>Mobile</b></td>
+    <td>React Native, Expo</td>
+  </tr>
+  <tr>
+    <td><b>Dados</b></td>
+    <td>MySQL, MariaDB, Redis</td>
+  </tr>
+  <tr>
+    <td><b>Infra</b></td>
+    <td>Linux, Docker, Nginx, GitHub Actions, Sentry</td>
+  </tr>
+</table>
 
 ### Atividade
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://streak-stats.demolab.com?user=hugorutemberg&amp;theme=github-dark-blue&amp;hide_border=true&amp;locale=pt_BR" />
-  <img
-    src="https://streak-stats.demolab.com?user=hugorutemberg&amp;hide_border=true&amp;locale=pt_BR"
-    alt="Sequência de contribuições" />
-</picture>
 
 <picture>
   <source
@@ -74,11 +70,13 @@ Aberto a projetos, consultoria e parcerias técnicas.
 
 <!--
   DECISÕES DE DESIGN
-  - Badges no estilo `flat` padrão, não `for-the-badge`. O `for-the-badge` é grande e em
-    caixa alta: dezoito deles viram um paredão. No estilo padrão eles ficam do tamanho de
-    uma linha de texto e acompanham a leitura em vez de disputá-la.
-  - Agrupados em quatro linhas separadas por linha em branco (linguagens, backend, front
-    e mobile, dados e infra), sem rótulo em cada linha. O agrupamento se lê sozinho.
+  - Stack em tabela, não em badges. A tabela lê mais rápido, não depende de serviço
+    externo e trocar uma tecnologia é editar uma palavra em vez de uma URL.
+  - Tabela em HTML, não em markdown. Tabela markdown exige linha de cabeçalho, e sem
+    rótulos ela renderiza uma faixa vazia no topo que parece defeito. Em HTML basta
+    omitir o thead.
+  - Sem card de sequência de contribuições: o número do meio ("sequência atual") oscila
+    e é o elemento visualmente maior do card, então um dia ruim vira o destaque.
   - `mark.svg` é uma marca própria: três nós conectados, referência direta a integrar
     sistemas. Cores escolhidas para funcionar no tema claro e no escuro.
   - Texto antes da stack. "O que eu resolvo" convence mais que "que ferramentas eu uso".

@@ -8,9 +8,8 @@ Construo APIs REST, painéis administrativos, apps iOS e Android e integrações
 sistemas. Backend em PHP com Symfony e Laravel, cliente em React e React Native, tudo em
 monorepo com API gateway.
 
-A parte que mais consome tempo é manter isso de pé quando a API de terceiro cai: circuit
-breaker por dependência, cache em camadas, fila sem broker, idempotência e retry com
-backoff.
+Resiliência a serviços externos instáveis: circuit breaker, cache em camadas, fila sem
+broker, idempotência e retry com backoff.
 
 ### Stack
 
@@ -57,8 +56,6 @@ backoff.
 
 ---
 
-Aberto a projetos, consultoria e parcerias técnicas.
-
 [![Site](https://img.shields.io/badge/Site-interacore.com.br-4C8DF6?logo=googlechrome&logoColor=white)](https://interacore.com.br)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-hugo--rutemberg-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugo-rutemberg-253a34155/)
 [![E-mail](https://img.shields.io/badge/E--mail-devhugorutemberg@gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:devhugorutemberg@gmail.com)
@@ -82,6 +79,10 @@ Aberto a projetos, consultoria e parcerias técnicas.
   - Começa pelo PRODUTO ("construo APIs, painéis, apps"), não pelo padrão de arquitetura.
     Só listar circuit breaker, idempotência e afins deixa abstrato: diz como eu resolvo
     sem dizer o que eu entrego.
+  - Afirmação, não narrativa. "A parte que mais consome tempo é..." conta rotina e soa
+    a desabafo; "Resiliência a serviços externos instáveis:" afirma capacidade.
+  - Sem chamada comercial ("aberto a projetos e consultoria"). Os links de contato já
+    dizem que dá para me procurar.
   - Sem lista de setores. Nomear nichos estreita o perfil e sugere especialização onde
     o trabalho é diverso. "Diferentes setores e portes" mantém a porta aberta.
 

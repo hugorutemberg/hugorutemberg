@@ -1,27 +1,48 @@
-<h1 align="center">Hugo Rutemberg</h1>
+# Olá, eu sou o Hugo 👋
 
-<p align="center">
-  <a href="https://interacore.com.br/">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Inter&amp;weight=500&amp;size=19&amp;pause=1500&amp;color=8B949E&amp;center=true&amp;vCenter=true&amp;width=460&amp;height=32&amp;lines=Full-Stack+Developer;Web%2C+mobile+e+integra%C3%A7%C3%B5es;S%C3%A3o+Paulo%2C+Brasil"
-      alt="Full-Stack Developer · Web, mobile e integrações · São Paulo, Brasil" />
-  </a>
-</p>
+**Desenvolvedor full-stack.** São Paulo, Brasil.
 
-<p align="center">
-  Desenvolvo software sob medida para empresas:<br />
-  sistemas de alta demanda, integrações entre plataformas e aplicativos.
-</p>
+Toco a [Interacore](https://interacore.com.br), onde desenvolvo software sob medida para
+empresas: sistemas de alta demanda, integrações entre plataformas e aplicativos.
 
-<br />
+Quase tudo que escrevo é de cliente e fica em repositório privado. Por isso este perfil
+tem poucos repositórios públicos e um gráfico de contribuições cheio.
 
-<p align="center">
-  TypeScript &nbsp;·&nbsp; React &nbsp;·&nbsp; React&nbsp;Native &nbsp;·&nbsp; Next.js &nbsp;·&nbsp; Astro<br />
-  PHP &nbsp;·&nbsp; Symfony &nbsp;·&nbsp; Laravel &nbsp;·&nbsp; Node.js<br />
-  MySQL &nbsp;·&nbsp; Redis &nbsp;·&nbsp; Docker &nbsp;·&nbsp; Linux
-</p>
+## No que eu trabalho
 
-<br />
+**Integrações entre sistemas que não foram feitos para conversar.**
+Plataformas de e-commerce, transportadoras, ERPs, gateways de pagamento e órgãos
+fiscais. REST, SOAP, webhooks, OAuth2 e JWT, XML assinado.
+
+**Sistemas que precisam aguentar pico e não podem cair.**
+Chamadas paralelas, cache em camadas, circuit breaker por dependência, fallback para
+tabela offline quando a API de terceiro some, filas sem broker, idempotência, locks
+distribuídos e retry com backoff.
+
+**Aplicativos e plataformas web.**
+React Native com Expo, Next.js, monorepo com Turborepo e pnpm, API gateway.
+
+Os setores em que mais atuei: e-commerce, logística e frete, documento fiscal
+eletrônico, controle de inventário e automação de atendimento.
+
+## Stack
+
+| | |
+|---|---|
+| **Linguagens** | PHP, TypeScript, JavaScript, SQL |
+| **Backend** | Symfony, Laravel, Doctrine, Node.js |
+| **Frontend** | React, Next.js, Astro, Tailwind |
+| **Mobile** | React Native, Expo |
+| **Dados** | MySQL, MariaDB, Redis |
+| **Infra** | Linux, Docker, Nginx, GitHub Actions, Sentry |
+
+## Contato
+
+Aberto a projetos, consultoria e parcerias técnicas.
+
+[interacore.com.br](https://interacore.com.br) &nbsp;·&nbsp;
+[LinkedIn](https://www.linkedin.com/in/hugo-rutemberg-253a34155/) &nbsp;·&nbsp;
+[devhugorutemberg@gmail.com](mailto:devhugorutemberg@gmail.com)
 
 <picture>
   <source
@@ -35,30 +56,21 @@
     src="https://raw.githubusercontent.com/hugorutemberg/hugorutemberg/output/snake.svg" />
 </picture>
 
-<br />
-
-<p align="center">
-  <a href="https://interacore.com.br/">interacore.com.br</a>
-  &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/hugo-rutemberg-253a34155/">LinkedIn</a>
-  &nbsp;·&nbsp;
-  <a href="mailto:devhugorutemberg@gmail.com">E-mail</a>
-</p>
-
 <!--
   DECISÕES DE DESIGN
-  - Sem badges do shields.io. Dezoito badges com dezoito cores de marca diferentes
-    competiam entre si e deixavam a página poluída. Lista tipográfica lê melhor e
-    envelhece melhor: trocar uma tecnologia é editar uma palavra, não uma URL.
-  - Um único elemento de cor: a cobrinha. Todo o resto é texto na cor padrão do tema,
-    então funciona igual no claro e no escuro.
-  - Agrupamento por quebra de linha, sem rótulos "Frontend/Backend". A ordem já comunica
-    e os rótulos só somavam ruído.
-  - Texto animado em cinza (8B949E), a cor secundária do próprio GitHub, para acompanhar
-    em vez de disputar atenção.
+  - Alinhado à esquerda, com títulos markdown normais. Perfil centralizado e decorativo
+    parece cartão de visita; este formato parece página de profissional.
+  - Sem badges. Dezoito badges coloridos poluíam, e mesmo organizados eles só repetem o
+    que a tabela de stack já diz melhor. A tabela ainda é mais fácil de manter.
+  - O texto vem antes da stack de propósito: "o que eu resolvo" convence mais que
+    "quais ferramentas eu uso".
+  - Setores em vez de clientes. Dizer "logística, fiscal, e-commerce" comunica
+    experiência sem entregar nome de cliente nem de projeto.
+  - Um único elemento gráfico, a cobrinha, no fim.
 
-  PENDENTE
-  - Angular saiu da lista: não há repositório Angular meu, nem local nem no GitHub.
-    Se voltar a ser uso corrente, reinserir na primeira linha.
-  - A cobrinha depende do workflow .github/workflows/snake.yml, que roda a cada 12h.
+  A PREENCHER
+  - Anos de experiência. Perfis fortes abrem com isso ("11+ years building production
+    systems"), mas não invento número: o GitHub só prova desde 2017. Se for mais tempo,
+    acrescentar na primeira linha.
+  - Angular está fora: não há repositório Angular meu, nem local nem no GitHub.
 -->

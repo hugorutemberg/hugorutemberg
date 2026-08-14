@@ -1,48 +1,55 @@
-# Olá, eu sou o Hugo 👋
+<h2>Olá, eu sou o Hugo <img src="./mark.svg" width="34" align="top" alt="" /></h2>
 
-**Desenvolvedor full-stack.** São Paulo, Brasil.
+Desenvolvedor **full-stack** na [Interacore](https://interacore.com.br), minha empresa de
+software sob medida. Construo sistemas para empresas de **e-commerce**, **logística**,
+**fiscal** e **inventário**, do backend ao aplicativo.
 
-Toco a [Interacore](https://interacore.com.br), onde desenvolvo software sob medida para
-empresas: sistemas de alta demanda, integrações entre plataformas e aplicativos.
+### No que eu trabalho
 
-Quase tudo que escrevo é de cliente e fica em repositório privado. Por isso este perfil
-tem poucos repositórios públicos e um gráfico de contribuições cheio.
+**Integrações.** Plataformas de e-commerce, transportadoras, ERPs, gateways de pagamento
+e órgãos fiscais. REST, SOAP, webhooks, OAuth2, JWT, XML assinado.
 
-## No que eu trabalho
-
-**Integrações entre sistemas que não foram feitos para conversar.**
-Plataformas de e-commerce, transportadoras, ERPs, gateways de pagamento e órgãos
-fiscais. REST, SOAP, webhooks, OAuth2 e JWT, XML assinado.
-
-**Sistemas que precisam aguentar pico e não podem cair.**
-Chamadas paralelas, cache em camadas, circuit breaker por dependência, fallback para
-tabela offline quando a API de terceiro some, filas sem broker, idempotência, locks
+**Alta demanda.** Chamadas paralelas, cache em camadas, circuit breaker por dependência,
+fallback offline quando a API de terceiro some, filas sem broker, idempotência, locks
 distribuídos e retry com backoff.
 
-**Aplicativos e plataformas web.**
-React Native com Expo, Next.js, monorepo com Turborepo e pnpm, API gateway.
+**Aplicativos e web.** React Native com Expo, Next.js, monorepo com Turborepo e pnpm,
+API gateway.
 
-Os setores em que mais atuei: e-commerce, logística e frete, documento fiscal
-eletrônico, controle de inventário e automação de atendimento.
+### Stack
 
-## Stack
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)
 
-| Área | Tecnologias |
-|---|---|
-| **Linguagens** | PHP, TypeScript, JavaScript, SQL |
-| **Backend** | Symfony, Laravel, Doctrine, Node.js |
-| **Frontend** | React, Next.js, Astro, Tailwind |
-| **Mobile** | React Native, Expo |
-| **Dados** | MySQL, MariaDB, Redis |
-| **Infra** | Linux, Docker, Nginx, GitHub Actions, Sentry |
+![Symfony](https://img.shields.io/badge/Symfony-000000?logo=symfony&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
+![Doctrine](https://img.shields.io/badge/Doctrine-FC6A31?logo=doctrine&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
 
-## Contato
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-0A7EA4?logo=react&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=white)
 
-Aberto a projetos, consultoria e parcerias técnicas.
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438?logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-000000?logo=linux&logoColor=white)
+![Sentry](https://img.shields.io/badge/Sentry-362D59?logo=sentry&logoColor=white)
 
-[interacore.com.br](https://interacore.com.br) &nbsp;·&nbsp;
-[LinkedIn](https://www.linkedin.com/in/hugo-rutemberg-253a34155/) &nbsp;·&nbsp;
-[devhugorutemberg@gmail.com](mailto:devhugorutemberg@gmail.com)
+### Atividade
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://streak-stats.demolab.com?user=hugorutemberg&amp;theme=github-dark-blue&amp;hide_border=true&amp;locale=pt_BR" />
+  <img
+    src="https://streak-stats.demolab.com?user=hugorutemberg&amp;hide_border=true&amp;locale=pt_BR"
+    alt="Sequência de contribuições" />
+</picture>
 
 <picture>
   <source
@@ -52,25 +59,32 @@ Aberto a projetos, consultoria e parcerias técnicas.
     media="(prefers-color-scheme: light)"
     srcset="https://raw.githubusercontent.com/hugorutemberg/hugorutemberg/output/snake.svg" />
   <img
-    alt="Cobrinha percorrendo o gráfico de contribuições"
-    src="https://raw.githubusercontent.com/hugorutemberg/hugorutemberg/output/snake.svg" />
+    src="https://raw.githubusercontent.com/hugorutemberg/hugorutemberg/output/snake.svg"
+    alt="Cobrinha percorrendo o gráfico de contribuições" />
 </picture>
+
+---
+
+Aberto a projetos, consultoria e parcerias técnicas.
+
+[![Site](https://img.shields.io/badge/Site-interacore.com.br-4C8DF6?logo=googlechrome&logoColor=white)](https://interacore.com.br)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-hugo--rutemberg-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugo-rutemberg-253a34155/)
+[![E-mail](https://img.shields.io/badge/E--mail-devhugorutemberg@gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:devhugorutemberg@gmail.com)
 
 <!--
   DECISÕES DE DESIGN
-  - Alinhado à esquerda, com títulos markdown normais. Perfil centralizado e decorativo
-    parece cartão de visita; este formato parece página de profissional.
-  - Sem badges. Dezoito badges coloridos poluíam, e mesmo organizados eles só repetem o
-    que a tabela de stack já diz melhor. A tabela ainda é mais fácil de manter.
-  - O texto vem antes da stack de propósito: "o que eu resolvo" convence mais que
-    "quais ferramentas eu uso".
-  - Setores em vez de clientes. Dizer "logística, fiscal, e-commerce" comunica
-    experiência sem entregar nome de cliente nem de projeto.
-  - Um único elemento gráfico, a cobrinha, no fim.
+  - Badges no estilo `flat` padrão, não `for-the-badge`. O `for-the-badge` é grande e em
+    caixa alta: dezoito deles viram um paredão. No estilo padrão eles ficam do tamanho de
+    uma linha de texto e acompanham a leitura em vez de disputá-la.
+  - Agrupados em quatro linhas separadas por linha em branco (linguagens, backend, front
+    e mobile, dados e infra), sem rótulo em cada linha. O agrupamento se lê sozinho.
+  - `mark.svg` é uma marca própria: três nós conectados, referência direta a integrar
+    sistemas. Cores escolhidas para funcionar no tema claro e no escuro.
+  - Texto antes da stack. "O que eu resolvo" convence mais que "que ferramentas eu uso".
+  - Setores no lugar de clientes: comunica experiência sem entregar nome de ninguém.
 
   A PREENCHER
-  - Anos de experiência. Perfis fortes abrem com isso ("11+ years building production
-    systems"), mas não invento número: o GitHub só prova desde 2017. Se for mais tempo,
-    acrescentar na primeira linha.
+  - Anos de experiência. Perfis fortes abrem com isso, mas não invento número: o GitHub
+    só comprova desde 2017. Se for mais tempo, acrescentar na primeira frase.
   - Angular está fora: não há repositório Angular meu, nem local nem no GitHub.
 -->

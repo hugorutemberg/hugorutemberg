@@ -4,17 +4,10 @@ Desenvolvedor **full-stack** com **15+ anos** construindo sistemas em produção
 [Interacore](https://interacore.com.br), atendendo empresas de diferentes setores e
 portes, do backend ao aplicativo.
 
-### No que eu trabalho
-
-**Integrações.** Plataformas de e-commerce, ERPs, marketplaces, gateways de pagamento,
-transportadoras e serviços de terceiros em geral. REST, SOAP, webhooks, OAuth2, JWT.
-
-**Alta demanda.** Chamadas paralelas, cache em camadas, circuit breaker por dependência,
-fallback offline quando a API de terceiro some, filas sem broker, idempotência, locks
-distribuídos e retry com backoff.
-
-**Aplicativos e web.** React Native com Expo, Next.js, monorepo com Turborepo e pnpm,
-API gateway.
+Trabalho sobretudo com sistemas que dependem de muitas APIs de terceiros e não podem cair
+quando uma delas cai: circuit breaker por dependência, cache em camadas, chamadas
+paralelas, filas sem broker, idempotência, locks distribuídos e retry com backoff. No
+cliente, React e React Native em monorepo com API gateway.
 
 ### Stack
 
@@ -78,7 +71,11 @@ Aberto a projetos, consultoria e parcerias técnicas.
     e é o elemento visualmente maior do card, então um dia ruim vira o destaque.
   - `mark.svg` é uma marca própria: três nós conectados, referência direta a integrar
     sistemas. Cores escolhidas para funcionar no tema claro e no escuro.
-  - Texto antes da stack. "O que eu resolvo" convence mais que "que ferramentas eu uso".
+  - Nada de lista de segmentos de mercado ("plataformas de e-commerce, ERPs, gateways").
+    Isso é catálogo de serviço de agência, fala com quem compra e não com quem programa.
+    Perfil de dev cita problema técnico concreto.
+  - Sem blocos em negrito com rótulo. A estrutura em si já parecia menu de serviços;
+    um parágrafo corrido lê como alguém descrevendo o trabalho.
   - Sem lista de setores. Nomear nichos estreita o perfil e sugere especialização onde
     o trabalho é diverso. "Diferentes setores e portes" mantém a porta aberta.
 
